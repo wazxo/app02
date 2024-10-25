@@ -1,0 +1,54 @@
+{
+  "frases": [
+      {
+          "id": 1,
+          "texto": "La vida es como montar en bicicleta. Para mantener el equilibrio debes seguir adelante.",
+          "imagen": "https://picsum.photos/id/1015/600/400"
+      },
+      {
+          "id": 2,
+          "texto": "El éxito es la suma de pequeños esfuerzos repetidos día tras día.",
+          "imagen": "https://picsum.photos/id/1016/600/400"
+      },
+      {
+          "id": 3,
+          "texto": "La mejor manera de predecir el futuro es crearlo.",
+          "imagen": "https://picsum.photos/id/1018/600/400"
+      },
+      {
+          "id": 4,
+          "texto": "No dejes para mañana lo que puedes hacer hoy.",
+          "imagen": "https://picsum.photos/id/1020/600/400"
+      },
+      {
+          "id": 5,
+          "texto": "El fracaso es solo la oportunidad de comenzar de nuevo con más experiencia.",
+          "imagen": "https://picsum.photos/id/1021/600/400"
+      },
+      {
+          "id": 6,
+          "texto": "La persistencia es el camino al éxito.",
+          "imagen": "https://picsum.photos/id/1022/600/400"
+      },
+      {
+          "id": 7,
+          "texto": "El cambio es la ley de la vida. Aquellos que solo miran al pasado o al presente se perderán el futuro.",
+          "imagen": "https://picsum.photos/id/1023/600/400"
+      },
+      {
+          "id": 8,
+          "texto": "No esperes el momento perfecto, toma el momento y hazlo perfecto.",
+          "imagen": "https://picsum.photos/id/1024/600/400"
+      },
+      {
+          "id": 9,
+          "texto": "No importa lo lento que vayas, siempre y cuando no te detengas.",
+          "imagen": "https://picsum.photos/id/1025/600/400"
+      },
+      {
+          "id": 10,
+          "texto": "La verdadera felicidad no depende de lo que tienes, sino de lo que eres.",
+          "imagen": "https://picsum.photos/id/1026/600/400"
+      }
+  ]
+}

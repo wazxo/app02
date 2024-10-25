@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "app01",
+    "slug": "app01",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/foto2x2.jpg",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "permissions": [
+        "READ_EXTERNAL_STORAGE",
+        "WRITE_EXTERNAL_STORAGE"
+      ],
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/foto2x2.jpg",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.johelin.app01"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "22fbcbcd-6330-4295-8cf9-d3f8bbb4bac3"
+      }
+    }
+  }
+}
